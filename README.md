@@ -4,7 +4,7 @@ This is a discord bot, named BOTao, made with nodejs to study about, the idea is
 <br><br>
 
 ## Installation
-#### 1. To start clone this repo
+### 1. To start clone this repo
 
  * Using HTTPS:
     ~~~
@@ -36,18 +36,18 @@ This is a discord bot, named BOTao, made with nodejs to study about, the idea is
 
 ## Usage
 
-### 1. You must to create a new bot in [discord developers](https://discord.com/developers/applications/).
+#### 1. You must to create a new bot in [discord developers](https://discord.com/developers/applications/).
 
-### 2. After that, take the bot token, client id for bot, and guest id for server
+#### 2. After that, take the bot token, client id for bot, and guest id for server
 
-### 3. Put on .env file
+#### 3. Put on .env file
 ~~~
 TOKEN='YOUR BOT TOKEN'
 CLIENT_ID='YOUR BOT ID'
 GUILD_ID='YOUR SERVER ID'
 ~~~
 
-### 4. Now just run
+#### 4. Now just run
 
 * npm
     ~~~
