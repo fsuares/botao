@@ -19,7 +19,7 @@ This is a discord bot, named BOTao, made with nodejs to study about, the idea is
 
 ### 2.  Jump in bot folder
   
-    cd folder
+    cd botao
     
 ### 3. Install packages
    
